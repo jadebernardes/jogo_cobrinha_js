@@ -1,3 +1,12 @@
 body{
-        
+    height: 95vh;
+    width: 95;
+    display: flex;
+    /*alinha horizontalmente*/
+    justify-content: center;
+    /*alinha verticalmente*/
+    align-items: center;
+    flex-direction: column;
+    color: gray;
+    font-family: courier;
 }
